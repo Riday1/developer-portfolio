@@ -98,6 +98,7 @@ div img {
     margin-right: 104px;
     box-shadow: 0px 4px 14px -3px;
     padding-left: 37px;
+    border-left: 8px solid black;
 }
 
 
@@ -112,12 +113,12 @@ div img {
 .box3 {
     display: flex;
     justify-content: center;
-    padding: 42px;
+    padding-top: 64px;
 
 }
 
 .footer_ {
-    padding: 40px;
+    padding-top: 40px;
     text-align: center;
     ;
 
